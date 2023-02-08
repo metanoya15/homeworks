@@ -1,0 +1,27 @@
+body {
+  background-color: #e7de5e;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.strike {
+  text-decoration: line-through;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.under {
+  text-decoration: underline;
+}

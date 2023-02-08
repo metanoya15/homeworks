@@ -2,18 +2,6 @@ body {
   background-color: #e7de5e;
 }
 
-h1 {
-  text-align: center;
-}
-
-h2 {
-  text-align: center;
-}
-
-p {
-  text-align: center;
-}
-
 .strike {
   text-decoration: line-through;
 }
@@ -24,4 +12,30 @@ p {
 
 .under {
   text-decoration: underline;
+}
+
+.strong {
+  font-weight: 600;
+}
+
+.all {
+  width: 100%;
+}
+
+.photo1 {
+  position: relative;
+  bottom: 420px;
+  left: 250px;
+}
+
+.text1 {
+  position: relative;
+  bottom: 600px;
+  left: 600px;
+}
+
+.photo2 {
+  position: relative;
+  bottom: 650px;
+  left: 250px;
 }
